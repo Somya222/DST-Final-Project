@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But do not ignore .ipynb and README.md files, as well as the .gitignore and .git directories
+!*.ipynb
+!README.md
+!.gitignore
+!.git/
